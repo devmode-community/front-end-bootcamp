@@ -1,0 +1,22 @@
+{
+  "name": "front-end-bootcamp",
+  "version": "0.1.0",
+  "description": "Projeto exemplo que usaremos do segundo bootcamp, sobre Front-end",
+  "repository": "git@github.com:devmode-community/front-end-bootcamp.git",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --out-dir build"
+  },
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-react": "^7.11.1",
+    "less": "^3.8.1",
+    "parcel-bundler": "^1.9.7",
+    "prettier": "^1.14.2",
+    "prettierrc": "^0.0.0-5",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0"
+  }
+}
